@@ -1,0 +1,4 @@
+#Wed Oct 26 15:00:02 PKT 2022
+base.0=/home/faranbutt789/Plane Project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
